@@ -1,0 +1,61 @@
+StandardHeader QLabel {
+    color:rgb(255,255,255);
+    font-size:24px;
+}
+
+WindowBottom QLabel {
+    color:rgb(255,255,255);
+    font-size:16px;
+}
+
+QMenu {
+    background-color:rgb(56,58,66);
+    margin:0px 6px 0px 6px;
+}
+
+QMenu::item {
+    background-color: transparent;
+    color:rgb(255,255,255);
+}
+
+QMenu::item:selected {
+    background-color:rgb(27,157,255);
+}
+
+QTabWidget::pane {
+    border-top: 2px solid rgb(74,78,85);
+}
+
+QTabWidget::tab-bar {
+    left: 2px;
+}
+
+QTabBar::tab {
+    color:rgb(255,255,255);
+    font:bold;
+    background: rgb(55,58,65);
+    padding: 8px;
+    min-width: 130px;
+}
+
+QTabBar::tab:hover {
+    background: rgb(105,191,255);
+}
+
+QTabBar::tab:selected {
+    background: rgb(36,154,255);
+}
+
+QTabBar::tab:!selected {
+    margin-top: 0px;
+}
+
+QPushButton {
+    background-color:rgb(55,58,65);
+    color:rgb(255,255,255);
+    border: 2px solid rgb(94,94,94);
+    border-radius: 4px;
+    font: bold 14px;
+    padding: 6px;
+    min-width: 60px;
+  }

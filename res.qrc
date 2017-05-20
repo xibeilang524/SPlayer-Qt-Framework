@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Resource/headicon.png</file>
+        <file>Resource/headclose.png</file>
+        <file>Resource/headmax.png</file>
+        <file>Resource/headmin.png</file>
+        <file>Resource/headrestore.png</file>
+        <file>Resource/headskin.png</file>
+        <file>Resource/openfile.png</file>
+        <file>Resource/next.png</file>
+        <file>Resource/pause.png</file>
+        <file>Resource/play.png</file>
+        <file>Resource/pre.png</file>
+        <file>Resource/sound.png</file>
+        <file>Resource/full.png</file>
+        <file>Resource/stop.png</file>
+        <file>Resource/backward.png</file>
+        <file>Resource/forward.png</file>
+    </qresource>
+</RCC>
